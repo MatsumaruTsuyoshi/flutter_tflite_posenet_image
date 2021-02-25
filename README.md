@@ -1,7 +1,6 @@
 # flutter_tflite_posenet_image
 
 A new Flutter application.
-https://github.com/MatsumaruTsuyoshi/flutter_tflite_posenet_image/issues/1#issue-816090558
 
 ## Getting Started
 
